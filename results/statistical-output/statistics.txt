@@ -1,0 +1,15 @@
+======================================================================
+STATISTICAL ANALYSIS: HIM-20 Temporal Dynamics
+Generated: 2026-05-10 04:29:56
+======================================================================
+
+Vigilance decrement:
+  Detection ~ Time: slope = -0.0278/hour, r = -0.5748, p < .001
+  Estimated time to reach 70%: 259 minutes of cumulative task time
+
+Session-over-session decline:
+  Week 1→2: Δ = 0.4866, d = 6.392, p = 0.0000 ***
+  Week 2→3: Δ = 0.0079, d = 0.228, p = 0.0257 *
+  Week 3→4: Δ = 0.0000, d = nan, p = nan ns
+  Week 4→5: Δ = 0.0000, d = nan, p = nan ns
+  Week 5→6: Δ = 0.0000, d = nan, p = nan ns
